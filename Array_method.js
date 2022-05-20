@@ -3,7 +3,7 @@
 
 let fruit =['Apple','Banana','Graps']
 
-console.log(fruit)
+// console.log(fruit)
 
 // fruit.pop()/**Remove the last element */
 
